@@ -25,7 +25,7 @@ Pod::Spec.new do |spec|
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   spec.description  = <<-DESC
-This is uniMPsdk for CocoaPod
+uniMpSDK pod版本，提供小程序能力
                    DESC
 
   spec.homepage     = "https://github.com/brookchenli/Udesk-UniMPSDK"
